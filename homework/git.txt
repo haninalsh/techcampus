@@ -1,1 +1,1 @@
-first command 
+push to github from command line 
